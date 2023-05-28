@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Project+EX「SMASH MOD: ÆON」</h1>
 
-<!--
-**SmashMod-AEON/SmashMod-AEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Repositories:</h2>
 
-Here are some ideas to get you started:
+- <b>Download ÆON v0.001</b>
+  - [Wii Build](https://github.com/smashmod-aeon/wii-build)
+  - [Win Dolphin Build](https://github.com/smashmod-aeon/win-dolphin-build)
+  - [Mac Dolphin Build](https://github.com/smashmod-aeon/mac-dolphin-build)
+- <b>Resources</b>
+  - [Metadata: Fighters](https://github.com/smashmod-aeon/metadata-fighters)
+  - [Previous Version Downloads](https://github.com/smashmod-aeon/pre-version-dwnld)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Connect:</h2>
+
+[<img align="left" alt="SmashMod-AEON | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[twitter]: https://twitter.com/SmashMod-AEON
